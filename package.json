@@ -1,0 +1,30 @@
+{
+  "name": "treechalk",
+  "version": "1.0.0",
+  "description": "beautiful trees from Google syntax data",
+  "main": "treeChalk.js",
+  "dependencies": {
+    "chalk": "^2.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheophileMot/treeChalk.git"
+  },
+  "keywords": [
+    "tree",
+    "syntax",
+    "morphology",
+    "computational",
+    "linguistics"
+  ],
+  "author": "Timothy Mott",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TheophileMot/treeChalk/issues"
+  },
+  "homepage": "https://github.com/TheophileMot/treeChalk#readme"
+}
