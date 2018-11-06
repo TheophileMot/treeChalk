@@ -29,4 +29,4 @@ Sample input / output:
 
 `node treeChalk.js cuttlefish.txt`
 
-(photo)
+![colourful tree structure of cuttlefish sentence](https://github.com/TheophileMot/treeChalk/blob/master/cuttlefish.png)
