@@ -27,6 +27,8 @@ Sample input / output:
 }
 ```
 
-`node treeChalk.js cuttlefish.txt`
+From this, we get:
+
+`> node treeChalk.js cuttlefish.txt`
 
 ![colourful tree structure of cuttlefish sentence](https://github.com/TheophileMot/treeChalk/blob/master/cuttlefish.png)
